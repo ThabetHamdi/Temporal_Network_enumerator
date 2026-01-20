@@ -34,7 +34,3 @@ The script writes `session.json` to the working directory and displays a small n
 
 - Adjust configuration at the top of `core/scanner.py` (`OBSERVATION_TIME`, `ARP_RANGE`, `PCAP_FILTER`).
 - Active ARP sweep uses `scapy.srp` and requires appropriate network permissions.
-
-## License
-
-MIT (add your license file if desired)
